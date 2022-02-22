@@ -5,7 +5,7 @@ studios:
     #   * "https://github.com/viniciussousazup/example-stack-spot-studio"
     #   * "git@github.com:viniciussousazup/example-stack-spot-studio.git"
     #   * "https://github.com/viniciussousazup/example-stack-spot-studio.git"
-    # lembre-se de sempre de colocar entre aspas "", pois se não o yaml vai interpretar que \\ é apenas uma \
+    # lembre-se de sempre de colocar a url entre aspas "", pois se não o yaml vai interpretar que \\ é apenas uma \
   - location: "https://github.com/viniciussousazup/example-stack-spot-studio"
   - location: "https://github.com/viniciussousazup/example-stack-spot-studio-2"
   - location: "https://github.com/viniciussousazup/example-stack-spot-studio-3"
