@@ -1,0 +1,12 @@
+#Aqui deve ser cadastrado todos os studios que o portal deve indexar.
+studios:
+    # Para registrar um studio precisa apenas colocar a location que é a url do repo do studio
+    # suportamos os seguintes formatos de urls:
+    #   * "https://github.com/viniciussousazup/example-stack-spot-studio"
+    #   * "git@github.com:viniciussousazup/example-stack-spot-studio.git"
+    #   * "https://github.com/viniciussousazup/example-stack-spot-studio.git"
+    # lembre-se de sempre de colocar entre aspas "", pois se não o yaml vai interpretar que \\ é apenas uma \
+  - location: "https://github.com/viniciussousazup/example-stack-spot-studio"
+  - location: "https://github.com/viniciussousazup/example-stack-spot-studio-2"
+  - location: "https://github.com/viniciussousazup/example-stack-spot-studio-3"
+  - location: "https://github.com/viniciussousazup/example-stack-spot-studio-4"
