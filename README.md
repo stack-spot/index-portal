@@ -1,3 +1,5 @@
-Um repo de portal é qualquer repo que tenha um arquivo portal.yaml ou portal.yml
+Para cadastrar um novo studio alterei o arquivo portal.yaml. 
 
-Nesse repo existe um portal.yaml de exemplo para facilitar a criação de outros repos de portal. 
+Exemplo de studio:
+
+https://github.com/stack-spot/example-portal-studio
