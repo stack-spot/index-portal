@@ -12,7 +12,7 @@ studios:
   - location: "https://github.com/stack-spot/example-portal-studio-4"
 
 # Categories que podem ser utilizadas no portal
-# Para uma menor manutenção cadastrar em ordem alfabetica
+# Para uma melhor manutenção cadastrar em ordem alfabetica
 # https://www.4devs.com.br/colocar_em_ordem_alfabetica
 validCategories:
     - "Analytics"
@@ -22,7 +22,7 @@ validCategories:
     - "SRE"
 
 # Technologies que podem ser utilizadas no portal
-# Para uma menor manutenção cadastrar em ordem alfabetica
+# Para uma melhor manutenção cadastrar em ordem alfabetica
 # https://www.4devs.com.br/colocar_em_ordem_alfabetica
 validTechnologies:
     - ".NET"
