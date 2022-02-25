@@ -10,3 +10,41 @@ studios:
   - location: "https://github.com/stack-spot/example-portal-studio-2"
   - location: "https://github.com/stack-spot/example-portal-studio-3"
   - location: "https://github.com/stack-spot/example-portal-studio-4"
+
+# Categories que podem ser utilizadas no portal
+# Para uma menor manutenção cadastrar em ordem alfabetica
+# https://www.4devs.com.br/colocar_em_ordem_alfabetica
+validCategories:
+    - "Analytics"
+    - "Backend"
+    - "Frontend"
+    - "Full Stack"
+    - "SRE"
+
+# Technologies que podem ser utilizadas no portal
+# Para uma menor manutenção cadastrar em ordem alfabetica
+# https://www.4devs.com.br/colocar_em_ordem_alfabetica
+validTechnologies:
+    - ".NET"
+    - "Apache Spark"
+    - "AWS DynamoDB"
+    - "AWS ECS/Fargate"
+    - "AWS EventBridge"
+    - "AWS Glue"
+    - "AWS Kinesis"
+    - "AWS Lake Formation"
+    - "AWS Lambda"
+    - "AWS S3"
+    - "AWS SNS"
+    - "AWS SQS"
+    - "C#"
+    - "Docker"
+    - "Jaeger"
+    - "Java"
+    - "OpenAPI"
+    - "Parquet"
+    - "Prometheus"
+    - "Python"
+    - "Splunk"
+    - "Springboot"
+    - "Typescript"
