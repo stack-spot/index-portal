@@ -7,9 +7,9 @@ studios:
     #   * "https://github.com/viniciussousazup/example-stack-spot-studio.git"
     # para evitar erros recomendamos colocar a url entre aspas ""
   - location: "https://github.com/stack-spot/example-portal-studio"
-  - location: "https://github.com/stack-spot/example-portal-studio-2"
-  - location: "https://github.com/stack-spot/example-portal-studio-3"
-  - location: "https://github.com/stack-spot/example-portal-studio-4"
+  - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-backend"
+  - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-backend/repo-studio-example"
+  - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-backend/repo-studio-all"
 
 # Categories que podem ser utilizadas no portal
 # Para uma melhor manutenção cadastrar em ordem alfabetica
