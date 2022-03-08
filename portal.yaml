@@ -10,6 +10,7 @@ studios:
   - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-backend"
   - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-example"
   - location: "https://github.com/viniciussousazup/stack-spot-portal/repo-studio-all"
+  - location: "https://github.com/stack-spot/skynet-studio"
 
 # Categories que podem ser utilizadas no portal
 # Para uma melhor manutenção cadastrar em ordem alfabetica
@@ -27,6 +28,7 @@ validCategories:
 validTechnologies:
     - ".NET"
     - "Apache Spark"
+    - "Api"
     - "AWS DynamoDB"
     - "AWS ECS/Fargate"
     - "AWS EventBridge"
@@ -41,10 +43,14 @@ validTechnologies:
     - "Docker"
     - "Jaeger"
     - "Java"
+    - "Observability"
     - "OpenAPI"
     - "Parquet"
     - "Prometheus"
     - "Python"
+    - "Queue"
+    - "Rest"
+    - "Secrets"
     - "Splunk"
     - "Springboot"
     - "Typescript"
