@@ -44,6 +44,7 @@ validTechnologies:
     - "Docker"
     - "Jaeger"
     - "Java"
+    - "Kotlin"
     - "Observability"
     - "OpenAPI"
     - "Parquet"
