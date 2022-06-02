@@ -14,6 +14,7 @@ studios:
   - location: "https://github.com/itau-corp/itau-ph5-quickcloud-studio"
   - location: "https://github.com/stack-spot/mind-studio"
   - location: "https://github.com/stack-spot/matter-studio"
+  - location: "https://github.com/stack-spot/localiza-studio"
 
 # Categories que podem ser utilizadas no portal
 # Para uma melhor manutenção cadastrar em ordem alfabetica
