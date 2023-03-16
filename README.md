@@ -1,5 +1,1 @@
-Para cadastrar um novo studio alterei o arquivo portal.yaml. 
-
-Exemplo de studio:
-
-https://github.com/stack-spot/example-portal-studio
+Repositório era utilizado na v0 quando não tinhamos cadastro de studio pelo portal.
